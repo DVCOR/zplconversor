@@ -1,0 +1,17 @@
+{
+  "name": "etiquetas-navegador",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "zplr": "0.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.1",
+    "jsdom": "26.1.0"
+  }
+}
